@@ -1,0 +1,7 @@
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\gabie\OneDrive\Documentos\universidad\programacion estructurada\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
